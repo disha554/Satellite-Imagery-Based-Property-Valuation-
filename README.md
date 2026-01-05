@@ -4,6 +4,7 @@ This project predicts **house prices** by combining **traditional housing data**
 The idea is simple: *a home’s value depends not just on its size, but also on where it is and what surrounds it.*
 
 By using satellite imagery, the model captures visual cues like greenery, roads, water bodies, and urban density—things that aren’t fully represented in tabular data.
+https://drive.google.com/drive/folders/1-1MvZ4wETSjtYwpgcgWT_RWtXhiY8wgS?usp=drive_link
 
 ## What This Project Does
 
@@ -54,6 +55,9 @@ Tabular features, engineered image features, and CNN embeddings are combined and
 ## Output Format
 
 Final predictions are saved in a CSV file with the format in predictions named file
+Prediction file cannot be directly updated because of large file size
+hence drive link given here:https://drive.google.com/file/d/1Asw9F8EiQtt06u5hX9Eozt7kfvDVq9HB/view?usp=sharing
+
 
 
 
