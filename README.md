@@ -1,6 +1,6 @@
 # Satellite-Imagery-Based-Property-Valuation-
 
-Prediction.csv in given link at last
+Prediction.csv in given link at last.
 This project predicts **house prices** by combining **traditional housing data** with **satellite images** of the surrounding neighborhood.  
 The idea is simple: *a home’s value depends not just on its size, but also on where it is and what surrounds it.*
 
